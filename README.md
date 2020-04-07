@@ -1,6 +1,10 @@
 # react-redux-thunk-example
-Exemplo de aplicação utilizando Reac, Redux e Thunks
+Exemplo de aplicação utilizando React, Redux e Thunks.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Start
+
+### `yarn install`
 
 ## Available Scripts
 
