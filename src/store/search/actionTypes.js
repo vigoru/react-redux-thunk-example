@@ -1,0 +1,4 @@
+export const PRODUCT_SEARCHING = 'search.PRODUCT_SEARCHING';
+export const PRODUCT_FOUND = 'search.PRODUCT_FOUND';
+export const PRODUCT_NOT_FOUND = 'search.PRODUCT_NOT_FOUND';
+export const PRODUCT_CLEAR_SEARCH = 'search.PRODUCT_CLEAR_SEARCH';

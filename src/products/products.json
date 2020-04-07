@@ -1,0 +1,19 @@
+    [{
+		"description": "Calça Jeans",
+		"stock": 5,
+		"size": "M",
+		"color": "Azul",
+		"price": 59.9,
+		"sku": "012345",
+		"image": "https://rodeowest.fbitsstatic.net/img/p/calca-jeans-feminina-flare-clara-rodeo-western-22646-137330/362411-1.jpg?w=460&h=460&v=no-change",
+		"promotions": ["10% no Cartão RCHLO"]
+	}, {
+		"description": "Camisa Polo",
+		"stock": 5,
+		"size": "M",
+		"color": "Listrada",
+		"price": 30.9,
+		"sku": "987654",
+		"image": "https://poloplay.fbitsstatic.net/img/p/camisa-polo-polo-play-listrada-5936-74406/310518.jpg?w=622&h=622&v=no-change",
+		"promotions": ["10% no Cartão RCHLO"]
+	}]
